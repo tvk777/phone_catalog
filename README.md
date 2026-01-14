@@ -9,14 +9,14 @@ The UI is fully responsive and built according to a professional Figma design.
 ## Live Demo
 
 **GitHub Pages:**
-https://tvk777.github.io/phone_catalog/
+[DEMO LINK](https://tvk777.github.io/phone_catalog/)
 
 ---
 
 ## 🎨 Design Source
 
 **Figma template:**
-https://www.figma.com/design/FRxncC4lfyhs6og1L6FGEU/Phone-catalog--V2--Rounded-Style-2?node-id=0-1&p=f
+[DESIGN LINK](https://www.figma.com/design/FRxncC4lfyhs6og1L6FGEU/Phone-catalog--V2--Rounded-Style-2?node-id=0-1&p=f)
 
 ---
 
